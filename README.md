@@ -14,3 +14,6 @@ Technologies Used
 HTML: Structure of the web page.
 CSS: Styling the game interface and layout.
 JavaScript: Logic for handling user input, generating random moves for the computer, and displaying results.
+
+
+https://tusharlamba9917.github.io/Rock-Paper-Scissors/
